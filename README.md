@@ -32,3 +32,4 @@ URL
 　phpMyAdmin: http://localhost/8080/
 
 ER図
+<img width="2884" height="1204" alt="Image" src="https://github.com/user-attachments/assets/726be7e3-8080-4baa-8847-8b3684eb3967" />
